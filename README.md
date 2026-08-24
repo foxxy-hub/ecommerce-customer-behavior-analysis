@@ -207,27 +207,6 @@ Possible next steps include:
 * Exploring customer lifetime value
 * Creating an interactive sales dashboard
 
-## Project Structure
-
-```text
-ecommerce-customer-behavior-analysis/
-│
-├── data/
-│   └── ecommerce_cleaned.csv
-│
-├── images/
-│   ├── revenue_by_category.png
-│   ├── monthly_revenue.png
-│   ├── customer_type.png
-│   ├── device_revenue.png
-│   ├── delivery_vs_rating.png
-│   └── correlation_heatmap.png
-│
-├── ecommerce_analysis.ipynb
-│
-└── README.md
-```
-
 ## Author
 
 **Shafaat Zaman Khattak**
